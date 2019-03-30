@@ -3,9 +3,9 @@ entries:
   happyhelm:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-03-31T00:09:11.642408+09:00
+    created: 2019-03-31T01:51:20.499085+09:00
     description: Echo Happy Helming.
-    digest: bb6e83d148acc3758fff1f0b8f73e348bf467692ead6afd9d67612a2e9ffb9e0
+    digest: 3b2e40acae98c4de36edd60028d64b0772950437f6b024e35dc09d849695989c
     engine: gotpl
     maintainers:
     - name: go_vargo
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://govargo.github.io/charts-repository/happyhelm-1.0.0.tgz
     version: 1.0.0
-generated: 2019-03-31T00:09:11.640693+09:00
+generated: 2019-03-31T01:51:20.497531+09:00
