@@ -3,9 +3,23 @@ entries:
   happyhelm:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2019-03-31T01:51:20.499085+09:00
+    created: 2019-05-01T04:57:53.75074+09:00
+    description: Echo Happy Helming(via Envoy Proxy).
+    digest: 607b1f216171c789b9d5b5405e42a6f12b80d70502c850941acb65fce1e4b95e
+    engine: gotpl
+    maintainers:
+    - name: go_vargo
+    name: happyhelm
+    sources:
+    - https://github.com/govargo/go-happyhelming
+    urls:
+    - https://govargo.github.io/charts-repository/happyhelm-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: 2019-05-01T04:57:53.749391+09:00
     description: Echo Happy Helming.
-    digest: 3b2e40acae98c4de36edd60028d64b0772950437f6b024e35dc09d849695989c
+    digest: 37b986910a6a91152ab8447b70388443e4cc7736bb28d7523abb5915361ec8a2
     engine: gotpl
     maintainers:
     - name: go_vargo
@@ -15,4 +29,4 @@ entries:
     urls:
     - https://govargo.github.io/charts-repository/happyhelm-1.0.0.tgz
     version: 1.0.0
-generated: 2019-03-31T01:51:20.497531+09:00
+generated: 2019-05-01T04:57:53.747695+09:00
