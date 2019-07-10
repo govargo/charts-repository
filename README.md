@@ -1,7 +1,9 @@
 # charts-repository
 Helm Charts Repository
 
-技術書典6で頒布した「自作アプリをHelm化して簡単デプロイ」のサンプルChartを配置しているHelm Chartリポジトリです
+技術書典6で頒布した「自作アプリをHelm化して簡単デプロイ」  
+インプレスR&D社出版の技術の泉シリーズ「実践Helm─自作アプリをKubernetesクラスタに簡単デプロイ！」  
+のサンプルChartを配置しているHelm Chartリポジトリです
 
 > [Happly Helming Application](https://github.com/govargo/go-happyhelming)  
 > 
